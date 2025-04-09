@@ -11,6 +11,11 @@ It aims to provide summarized insights, emotional profiling, and self-care strat
 
 ---
 
+## 📌 API Code
+You can access the API Code project here: [Mental Health API](https://github.com/felixchiuman/mental-health-api)
+
+---
+
 ## 💡 Features
 
 | Task                      | Model Used                                                                 |
