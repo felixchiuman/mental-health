@@ -14,7 +14,9 @@ It aims to provide summarized insights, emotional profiling, and self-care strat
 ## 📌 API Code
 You can access the API Code project here: [Mental Health API](https://github.com/felixchiuman/mental-health-api)
 
-You can access the gradio demo project here: [Mental Health Assistant](https://huggingface.co/spaces/felixchiuman/mental-health-assistant)
+You can access the gradio demo project here: [Mental Health Assistant](https://huggingface.co/spaces/felixchiuman/mental-health-assistant)*
+
+* The project set on CPU (FREE). if you want to try, i rec to use GPU for better experience
 
 
 ---
