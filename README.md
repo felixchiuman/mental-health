@@ -16,7 +16,7 @@ You can access the API Code project here: [Mental Health API](https://github.com
 
 You can access the gradio demo project here: [Mental Health Assistant](https://huggingface.co/spaces/felixchiuman/mental-health-assistant)*
 
-* The project set on CPU (FREE). if you want to try, i rec to use GPU for better experience
+*The project set on CPU (FREE). if you want to try, i rec to use GPU for better experience
 
 
 ---
