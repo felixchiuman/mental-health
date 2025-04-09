@@ -11,15 +11,19 @@ It aims to provide summarized insights, emotional profiling, and self-care strat
 
 ---
 
-## 📌 API Code
-You can access the API Code project here: [Mental Health API](https://github.com/felixchiuman/mental-health-api)
-
-You can access the gradio demo project here: [Mental Health Assistant](https://huggingface.co/spaces/felixchiuman/mental-health-assistant)*
-
-*The project set on CPU (FREE). if you want to try, i rec to use GPU for better experience
-
+## 🚀 API Code
+👉 **API Code project here:** [Mental Health API](https://github.com/felixchiuman/mental-health-api)
 
 ---
+
+## 🚀 Live Demo
+
+👉 **Launch on Hugging Face Spaces:**  [Mental Health Assistant](https://huggingface.co/spaces/felixchiuman/mental-health-assistant)*
+
+***The project set on CPU (FREE). if you want to try, i rec to use GPU for better experience**
+
+---
+
 
 ## 💡 Features
 
@@ -29,13 +33,6 @@ You can access the gradio demo project here: [Mental Health Assistant](https://h
 | 📊 Sentiment Analysis        | Hugging Face `sentiment-analysis` pipeline                                |
 | 💡 Emotion Classification    | `nateraw/bert-base-uncased-emotion`                                       |
 | 🛠 PTSD Coping Suggestions  | `deepseek-ai/deepseek-llm-7b-chat`                                         |
-
----
-
-## 🚀 Live Demo
-
-👉 **Launch on Hugging Face Spaces:**  
-[https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME](https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME)
 
 ---
 
